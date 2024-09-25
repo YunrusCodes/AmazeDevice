@@ -29,7 +29,7 @@ git clone https://github.com/bluekitchen/btstack.git
 \btstack\port\esp32\integrate_btstack.py
 ```
 透過命令直接運作，例如
-```
+```bash
 py "C:\Espressif\frameworks\esp-idf-v5.3.1\btstack\port\esp32\integrate_btstack.py"
 ```
 
@@ -39,6 +39,10 @@ py "C:\Espressif\frameworks\esp-idf-v5.3.1\btstack\port\esp32\integrate_btstack.
 
 ```
 \btstack\port\esp32\example\hfp_hf_demo
+```
+例如:
+```bash
+cd C:\Espressif\frameworks\esp-idf-v5.3.1\AmazeDevice\hfp_hid_muti
 ```
 
 然後，運行以下命令編譯範例項目：
