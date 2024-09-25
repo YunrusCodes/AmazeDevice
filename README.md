@@ -42,7 +42,7 @@ py "C:\Espressif\frameworks\esp-idf-v5.3.1\btstack\port\esp32\integrate_btstack.
 ```
 例如:
 ```bash
-cd C:\Espressif\frameworks\esp-idf-v5.3.1\AmazeDevice\hfp_hid_muti
+cd C:\Espressif\frameworks\esp-idf-v5.3.1\btstack\port\esp32\example\hsp_hs_demo
 ```
 
 然後，運行以下命令編譯範例項目：
@@ -109,6 +109,10 @@ git clone https://github.com/YunrusCodes/AmazeDevice.git
 
 ```
 \AmazeDevice\hfp_hid_multi
+```
+例如:
+```bash
+cd C:\Espressif\frameworks\esp-idf-v5.3.1\AmazeDevice\hfp_hid_muti
 ```
 
 然後，運行以下命令編譯專案：
