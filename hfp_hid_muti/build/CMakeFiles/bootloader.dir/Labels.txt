@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/for_amaze/hfp_hid_muti/build/CMakeFiles/bootloader
+D:/for_amaze/hfp_hid_muti/build/CMakeFiles/bootloader.rule
+D:/for_amaze/hfp_hid_muti/build/CMakeFiles/bootloader-complete.rule
+D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

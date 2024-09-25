@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/for_amaze/hfp_hid_muti/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/for_amaze/hfp_hid_muti/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/for_amaze/hfp_hid_muti/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/for_amaze/hfp_hid_muti/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
