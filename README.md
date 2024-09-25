@@ -9,7 +9,8 @@ ESP32-Lyrat 設置為 HFP 設備
 
 ### 步驟 1: 安裝 Espressif 開發環境
 
-首先，安裝 Espressif 的 ESP-IDF（Espressif IoT Development Framework）。可至此網站直接下載
+首先，安裝 Espressif 的 ESP-IDF（Espressif IoT Development Framework）。
+可至此網站直接下載
 [https://dl.espressif.com/dl/esp-idf/](https://dl.espressif.com/dl/esp-idf/)
 
 ### 步驟 2: 下載 BtStack
