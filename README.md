@@ -16,7 +16,7 @@ ESP32-Lyrat 設置為 HFP 設備
 打開 ESP-IDF 命令提示符（ESP-IDF Command Prompt），運行以下命令來克隆 BtStack 庫：
 
 ```bash
-git clone [<repository_url>](https://github.com/bluekitchen/btstack.git)
+git clone https://github.com/bluekitchen/btstack.git
 ```
 
 ### 步驟 3: 修改 Python 文件
@@ -92,7 +92,7 @@ idf.py -p COMx monitor
 打開 ESP-IDF 命令提示符（ESP-IDF Command Prompt），並運行以下命令來克隆專案代碼：
 
 ```bash
-git clone [<repository_url>](https://github.com/YunrusCodes/AmazeDevice.git)
+git clone https://github.com/YunrusCodes/AmazeDevice.git
 ```
 
 ### 步驟 2: 編譯專案
