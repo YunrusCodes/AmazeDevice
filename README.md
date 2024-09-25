@@ -49,8 +49,6 @@ idf.py build
 idf.py menuconfig
 ```
 
-在「配置」中選擇合適的開發板。
-
 ### 步驟 6: 準備燒錄
 
 在開始燒錄之前，按住開發板上的 "BOOT" 和 "RST" 按鈕：
