@@ -21,12 +21,16 @@ ESP32-Lyrat 設置為 HFP 設備
 git clone https://github.com/bluekitchen/btstack.git
 ```
 
-### 步驟 3: 修改 Python 文件
+### 步驟 3: 執行 Python 文件 integrate_btstack.py
 
 找到 `integrate_btstack.py` 文件，文件位置如下：
 
 ```
-\btstack\port\esp32\
+\btstack\port\esp32\integrate_btstack.py
+```
+透過命令直接運作，例如
+```
+py "C:\Espressif\frameworks\esp-idf-v5.3.1\btstack\port\esp32\integrate_btstack.py"
 ```
 
 ### 步驟 4: 編譯 HFP 範例項目
