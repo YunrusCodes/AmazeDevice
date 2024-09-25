@@ -1,8 +1,8 @@
-要使用此專案之前，需先完成以下配置
+## 要使用此專案之前，需先完成以下配置
 
 ---
 
-## ESP32-Lyrat 設置為 HFP 設備
+ESP32-Lyrat 設置為 HFP 設備
 
 可依照此影片配置步驟完成
 [https://youtu.be/W-6s79OHgDI](https://youtu.be/W-6s79OHgDI)
@@ -79,10 +79,11 @@ idf.py -p COMx flash
 idf.py -p COMx monitor
 ```
 ---
-
-完成上述配置後，即可接續使用此專案
+## 完成上述配置後，即可接續使用此專案
 
 ---
+專案功能:於ESP32-LyRat運作免持聽筒並附帶字母'Q'鍵盤按鈕功能。
+
 可依照此影片配置步驟完成
 [https://youtu.be/W-6s79OHgDI](https://youtu.be/4ckwdMCLy2g)
 
