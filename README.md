@@ -92,15 +92,12 @@ idf.py -p COMx monitor
 ---
 專案功能:於ESP32-LyRat運作免持聽筒並附帶字母'Q'鍵盤按鈕功能。
 
-可依照此影片配置步驟完成
-[https://youtu.be/W-6s79OHgDI](https://youtu.be/4ckwdMCLy2g)
-
 ### 步驟 1: 下載專案
 
 打開 ESP-IDF 命令提示符（ESP-IDF Command Prompt），並運行以下命令來克隆專案代碼：
 
 ```bash
-git clone https://github.com/YunrusCodes/AmazeDevice.git
+git clone https://github.com/YunrusCodes/HID_HFP_Mutidevice.git
 ```
 
 ### 步驟 2: 編譯專案
@@ -108,11 +105,11 @@ git clone https://github.com/YunrusCodes/AmazeDevice.git
 切換到以下目錄：
 
 ```
-\AmazeDevice\hfp_hid_multi
+\HID_HFP_Mutidevice\hfp_hid_multi
 ```
 例如:
 ```bash
-cd C:\Espressif\frameworks\esp-idf-v5.3.1\AmazeDevice\hfp_hid_muti
+cd C:\Espressif\frameworks\esp-idf-v5.3.1\HID_HFP_Mutidevice\hfp_hid_muti
 ```
 
 然後，運行以下命令編譯專案：
